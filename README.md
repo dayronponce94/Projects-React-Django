@@ -1,4 +1,4 @@
-# Projects React + Django Collection | Colección de proyectos React y Django
+# Projects React + Django Collection | Colección de proyectos React + Django
 
 Repository containing multiple full-stack projects with React and Django
 
