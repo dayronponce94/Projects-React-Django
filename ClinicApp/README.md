@@ -1,6 +1,7 @@
 # ClinicApp - Sistema de Gestión de Turnos Médicos / Medical Appointment Management System
 
 Aplicación web completa para la gestión de turnos médicos online, construida con React y Django.
+
 Complete web application for online medical appointment management, built with React and Django.
 
 ## Tecnologías / Technologies
@@ -49,7 +50,7 @@ python manage.py createsuperuser
 # Run development server
 python manage.py runserver
 ```
-### Frontend (Rect)
+### Frontend (React)
 ```bash
 # Navegar a la carpeta del frontend
 # Navigate to the frontend folder
