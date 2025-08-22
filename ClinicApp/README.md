@@ -4,8 +4,6 @@ Aplicación web completa para la gestión de turnos médicos online, construida 
 Complete web application for online medical appointment management, built with React and Django.
 
 ## Tecnologías / Technologies
-
-## Instalación y Configuración / Installation and Configuration
 ### Backend
 - Django 5.2.5
 - Django REST Framework 3.16.1
@@ -20,6 +18,7 @@ Complete web application for online medical appointment management, built with R
 - Tailwind CSS 3.4.3
 - Date-fns para manejo de fechas
 
+## Instalación y Configuración / Installation and Configuration
 ### Backend (Django)
 ```bash
 # Navegar a la carpeta del backend
@@ -49,8 +48,9 @@ python manage.py createsuperuser
 # Ejecutar servidor de desarrollo
 # Run development server
 python manage.py runserver
-
+```
 ### Frontend (Rect)
+```bash
 # Navegar a la carpeta del frontend
 # Navigate to the frontend folder
 cd ClinicApp/ui
