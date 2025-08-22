@@ -4,7 +4,7 @@ Aplicación para gestión de tareas diarias.
 
 Application for daily task management.
 
-## Tecnologías | Tecnologies
+## Tecnologías | Technologies
 - React 18
 - Django 5.2.3
 - Python 3.13.3

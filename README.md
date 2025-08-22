@@ -7,6 +7,7 @@ Repositorio para mis proyectos fullstack con React y Django
 ## Proyectos | Included Projects
 
 1. [TaskMaster](./TaskMaster) - Gestor de tareas / Task Master
+2. [ClinicApp](./ClinicApp) - Sistema de gestión de citas médicas / Medical appointment system
 
 
 ## Cómo Usar | How to use
