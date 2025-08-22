@@ -50,6 +50,7 @@ python manage.py createsuperuser
 # Run development server
 python manage.py runserver
 
+### Frontend (Rect)
 # Navegar a la carpeta del frontend
 # Navigate to the frontend folder
 cd ClinicApp/ui
